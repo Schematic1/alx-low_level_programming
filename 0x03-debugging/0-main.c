@@ -2,7 +2,7 @@
 
 /**
  * main - tests funtion that printsif integer is positive or negative
- * 
+ *
  * Return: Always 0
  */
 
